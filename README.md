@@ -2,4 +2,4 @@
 
 分别运行cutout.py, mixup.py和cutmix.py，得到三种data augmentation之后模型的结果
 
-运行visual
+运行visual.py得到可视化结果
